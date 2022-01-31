@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Test 1 KrunalShah</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="myName">Krunal Shah</string>
+    <string name="reset_all_to_red">RESET ALL TO RED</string>
+
+    <string-array name="colourArray">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+</resources>
